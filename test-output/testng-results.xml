@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17721" started-at="2016-07-24T10:19:45Z" finished-at="2016-07-24T10:20:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17721" started-at="2016-07-24T10:19:45Z" finished-at="2016-07-24T10:20:02Z">
+      <class name="com.benstoehrvia.implement.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="beforeSuite" is-config="true" duration-ms="34917" started-at="2016-07-24T13:19:10Z" finished-at="2016-07-24T13:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="beforeTest" is-config="true" duration-ms="1" started-at="2016-07-24T13:19:45Z" finished-at="2016-07-24T13:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="beforeMethod" is-config="true" duration-ms="13238" started-at="2016-07-24T13:19:45Z" finished-at="2016-07-24T13:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickSignUpButton()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="clickSignUpButton" duration-ms="4461" started-at="2016-07-24T13:19:58Z" finished-at="2016-07-24T13:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignUpButton -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-07-24T13:20:02Z" finished-at="2016-07-24T13:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-07-24T13:20:02Z" finished-at="2016-07-24T13:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.benstoehrvia.implement.NewTest@56235b8e]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-07-24T13:20:03Z" finished-at="2016-07-24T13:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.benstoehrvia.implement.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
